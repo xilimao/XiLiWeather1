@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">XiLiWeather</string>
+    <string name="select_city">城市</string>
+    <string name="city_name"> </string>
+    <string name="title_wenDu">  </string>
+    <string name="title_wea_leiXing">  </string>
+    <string name="error_raise">发现异常，请查看Logcat！</string>
+
+
+    <string name="weather_api_title_weather">天气</string>
+    <string name="weather_query_type">天气类型查询</string>
+    <string name="weather_api_title_temperature">温度</string>
+    <string name="weather_api_title_humidity">湿度</string>
+    <string name="weather_api_title_wind">风向</string>
+    <string name="weather_api_title_sunrise">日出时间</string>
+    <string name="weather_api_title_sunSet">日落时间</string>
+    <string name="weather_api_title_airCondition">空气质量</string>
+    <string name="weather_api_title_pollutionIndex">空气质量指数</string>
+    <string name="weather_api_title_cold_index">感冒指数</string>
+    <string name="weather_api_title_dressing_index">穿衣指数</string>
+    <string name="weather_api_title_exercise_index">运动指数</string>
+    <string name="weather_api_title_wash_index">洗衣指数</string>
+    <string name="weather_api_title_crawlerTime">更新时间</string>
+    <string name="weather_api_title_dayTime">白天天气</string>
+    <string name="weather_api_title_night">夜晚天气</string>
+
+</resources>
